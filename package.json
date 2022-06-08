@@ -1,0 +1,22 @@
+{
+  "name": "bpresent-dapp",
+  "version": "1.0.0",
+  "description": "A decentralized live attendance capturing application based on ethereum blockchain.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranav0210/BPresent-dApp.git"
+  },
+  "author": "Pranav Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pranav0210/BPresent-dApp/issues"
+  },
+  "homepage": "https://github.com/Pranav0210/BPresent-dApp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
